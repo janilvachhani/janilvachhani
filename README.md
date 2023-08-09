@@ -5,11 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/janilvachhani](https://github.com/janilvachhani)
 
-- 📝 I regularly write articles on [Soon.....](Soon.....)
+- 📝 I regularly write articles on [Blog Site Is In On Way](Blog Site Is In On Way)
 
 - 📫 How to reach me **janilvachhani@gmail.com**
-
-- 📄 Know about my experiences [Soon.....](Soon.....)
 
 - ⚡ Fun fact **Web Development Is Easy😂😂😂**
 
